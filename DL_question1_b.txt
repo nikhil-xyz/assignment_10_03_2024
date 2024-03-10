@@ -1,0 +1,5 @@
+activation function:
+	Activation function is a mathematical function which decide whether to activate the given neuron or not based on certain threshold.
+Activation function is used to counter the problems like exploding gradient. It is important to scale down the output values of the neuron in 
+order to meet the convergence point early. Large output values of the neuron could cascade down through the network leading to both vanishing and exploding gradient 
+problem. 
